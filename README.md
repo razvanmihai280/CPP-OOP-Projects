@@ -1,5 +1,5 @@
-# Projects
-Contents:<break>
+
+# Contents:<break>
   <ul>
   <li>Clase</li>
   <li> Clase abstracte</li>
@@ -13,3 +13,5 @@ Contents:<break>
    <li>Functii virtuale</li>
   <li> STL </li>
 </ul>
+  
+# C nu te omoara, te ridica
